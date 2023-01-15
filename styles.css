@@ -182,48 +182,7 @@ nav ul li a {
     margin-bottom: 70px;
 }
 
-/* extra section */
-.plan-container {
-    margin: -150px 0;
-    margin-bottom: 66px;
-}
 
-.plan {
-    text-align: center;
-    font-size: 40px;
-
-    margin-bottom: 50px;
-}
-
-.all-icon-container {
-    display: flex;
-    justify-content: center;
-    gap: 40px;
-    margin: 0 200px;
-}
-
-.building {
-    text-align: center;
-
-}
-
-.all-title {
-    font-size: 30px;
-    color: rgb(27, 27, 27);
-    font-family: 'Ubuntu', sans-serif;
-    margin-bottom: 20px;
-    margin-top: 15px;
-}
-
-.all-discription {
-    font-size: 25px;
-
-    color: rgb(138, 138, 138);
-}
-
-.plan-container {
-    margin-bottom: 55x;
-}
 
 
 /* third section */
@@ -307,6 +266,53 @@ nav ul li a {
 
 .info-box-title-paragraph h4 {
     font-size: 22px;
+}
+
+/* extra section */
+.project-container {
+    margin: -150px 0;
+    margin-bottom: 66px;
+}
+
+.project {
+    text-align: center;
+    font-size: 40px;
+
+    margin-bottom: 50px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin: 0 200px;
+}
+
+.building {
+    text-align: center;
+
+}
+.project h2{
+    font-size: 45px;
+    color:#1f1f1f;
+}
+
+.all-title {
+    font-size: 30px;
+    color: rgb(27, 27, 27);
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+.all-discription {
+    font-size: 25px;
+
+    color: rgb(138, 138, 138);
+}
+
+.project-container {
+    margin-bottom: 55x;
 }
 
 /* fourth section */
