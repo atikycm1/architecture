@@ -129,7 +129,7 @@ nav ul li a {
     justify-content: space-between;
     align-items: center;
 
-    width: 100%;
+    
 
 }
 
@@ -184,7 +184,8 @@ nav ul li a {
 
 /* extra section */
 .plan-container {
-    margin: 100px 0;
+    margin: -150px 0;
+    margin-bottom: 66px;
 }
 
 .plan {
@@ -221,7 +222,7 @@ nav ul li a {
 }
 
 .plan-container {
-    margin-bottom: 150px;
+    margin-bottom: 55x;
 }
 
 
@@ -337,6 +338,7 @@ nav ul li a {
 .box-1:hover {
     background-color: rgb(255, 185, 139);
     border-style: none;
+    box-shadow: -1px -1px 17px -11px rgba(0, 0, 0, 0.78);
 
 }
 
