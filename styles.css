@@ -178,6 +178,47 @@ nav ul li a {
 .title-two p {
     margin-bottom: 30px;
 }
+/* extra section */
+.plan-container{
+    margin: 100px 0;
+}
+.plan {
+    text-align: center;
+    font-size: 40px;
+  
+    margin-bottom: 50px;
+  }
+  
+  .all-icon-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin:0 200px;
+  }
+  
+  .building {
+    text-align: center;
+    
+  }
+  
+  .all-title {
+    font-size: 30px;
+    color: rgb(27, 27, 27);
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 20px;
+    margin-top: 15px;
+  }
+  
+  .all-discription {
+    font-size: 25px;
+  
+    color: rgb(138, 138, 138);
+  }
+  
+  .plan-container {
+    margin-bottom: 150px;
+  }
+  
 
 /* third section */
 .title-image-third-section {
@@ -284,6 +325,17 @@ nav ul li a {
     border: 2px solid #FF900E;
     border-radius: 8px;
     padding-top: 50px;
+    transition: 0.3s;
+
+}
+.box-1:hover{
+    background-color: rgb(255, 185, 139);
+    border-style: none;
+    
+}
+
+.number:hover {
+    color:white;
 
 }
 
@@ -294,7 +346,8 @@ nav ul li a {
 
 .number {
     font-size: 45px;
-    color: #424242;
+    color: #a10000;
+    transition: 0.3s;
 }
 
 .box-1 p {
